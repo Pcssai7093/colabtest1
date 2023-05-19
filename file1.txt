@@ -1,2 +1,3 @@
 my first line in the file1
-my second line (edit after staging)
+my second line (edit after staging)\
+my third line

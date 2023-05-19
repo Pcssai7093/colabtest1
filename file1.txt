@@ -2,3 +2,4 @@ my first line in the file1
 my second line (edit after staging)\
 my third line
 my 4th line
+my 5th line

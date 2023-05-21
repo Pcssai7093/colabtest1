@@ -1,5 +1,5 @@
 my first line in the file1
 my second line (edit after staging)\
 my 4th line
-my 5th line
-my 6th line
+1st line in file2
+line added after creating branch b1
